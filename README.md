@@ -10,7 +10,7 @@ Following there are some needs and helps to make it work. I list below Linux as 
 - Python 3 (3.7 used)
 - OpenCV 3
 
-# Optional Instalation
+# Optional Installation
 I suggest creating a virtualenv inside the repository folder to installing all the dependencies. 
 ```
 pip install virtualenv
@@ -24,7 +24,7 @@ sudo apt install python3-opencv
 ```
 To deactivate the virtualenv after use simply type deactivate. 
 
-# Running the examples
+# Running Examples
 Once you have the env activated and is inside the repository folder, simply execute the python files.
 ```
 python labeling.py
