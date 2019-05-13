@@ -30,5 +30,5 @@ Once you have the env activated and is inside the repository folder, simply exec
 python labeling.py
 ```
 # More
-The details and explanation of each file is discussed on my medium page, in a 5 part series. There I explain a little of the theory used for developing solving homeworks and go through the code line by line. 
+The explanation of each file is discussed on my medium page in a 5 part series. There I go through the theory behind the solutions and also analyse the code line by line. 
 - [Medium](https://medium.com/@elvisdias)
