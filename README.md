@@ -5,12 +5,12 @@ These are a few exercises implemented as homeworks for a computer vision class u
 ## Getting Started
 Following there are some needs and helps to make it work. I list below Linux as a prerequisite because installing OpenCV in windows is not trivial and should be avoided if possible. 
 
-# Prerequisites
+## Prerequisites
 - Linux  
 - Python 3 (3.7 used)
 - OpenCV 3
 
-# Optional Installation
+## Optional Installation
 I suggest creating a virtualenv inside the repository folder to installing all the dependencies. 
 ```
 pip install virtualenv
@@ -24,11 +24,11 @@ sudo apt install python3-opencv
 ```
 To deactivate the virtualenv after use simply type deactivate. 
 
-# Running Examples
+## Running Examples
 Once you have the env activated and is inside the repository folder, simply execute the python files.
 ```
 python labeling.py
 ```
-# More
+## More
 The explanation of each file is discussed on my medium page in a 5 part series. There I go through the theory behind the solutions and also analyse the code line by line. 
 - [Medium](https://medium.com/@elvisdias)
